@@ -1,0 +1,24 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+#azul {
+    border: blue solid 2px;
+}
+
+.gris {
+    border: gray solid 2px;
+}
+
+.verde {
+    border: lightgreen solid 2px;
+}
+
+h3, h2{
+    margin: 10px;
+}
+
+ul, li {
+    margin: 0;
+}
